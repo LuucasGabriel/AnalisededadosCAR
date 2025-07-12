@@ -44,19 +44,15 @@ As principais **medidas DAX** desenvolvidas foram:
 Abaixo está uma prévia do dashboard desenvolvido:
 
 <p align="center">
-  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194356.png?raw=true" alt="Dashboard CAR PRA" width="30%"/>
-  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194415.png?raw=true" alt="Dashboard CAR PRA" width="30%"/>
-  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194442.png?raw=true" alt="Dashboard CAR PRA" width="30%"/>
-  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194457.png?raw=true" alt="Dashboard CAR PRA" width="30%"/>
-  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194531.png?raw=true" alt="Dashboard CAR PRA" width="30%"/>
-  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194547.png?raw=true" alt="Dashboard CAR PRA" width="30%"/>
-  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194559.png?raw=true" alt="Dashboard CAR PRA" width="30%"/>
-  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-11%20212509.png?raw=true" alt="Dashboard CAR PRA" width="30%"/>
+  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194356.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
+  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194415.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
+  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194442.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
+  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194457.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
+  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194531.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
+  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194547.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
+  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194559.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
+  <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-11%20212509.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
 </p>
-
-> 💡 **Dica:** Suba as imagens na pasta `Imagens` e atualize o caminho acima.
-
----
 
 ## 🚀 Como Abrir o Projeto
 
