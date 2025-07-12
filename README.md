@@ -3,18 +3,7 @@
 Este repositório contém um **projeto em Power BI** desenvolvido para a **CATI (Coordenadoria de Assistência Técnica Integral)**. O objetivo é analisar dados ambientais da **região de Tupã**, com foco na **adesão ao Cadastro Ambiental Rural (CAR)** e ao **Programa de Regularização Ambiental (PRA)**.
 
 A CATI é responsável por orientar e apoiar os produtores rurais nesse processo de regularização, promovendo **sustentabilidade**, **segurança jurídica** e **acesso a benefícios ambientais**.
-
----
-
-## 🎯 Objetivo
-
-- Monitorar a área cadastrada pelos produtores rurais no CAR.
-- Acompanhar a adesão e recusa ao PRA.
-- Avaliar áreas de preservação permanente, vegetação nativa, reserva legal, servidão administrativa, uso restrito, entre outros.
-- Facilitar a tomada de decisão para orientar produtores e promover a regularização ambiental.
-
----
-
+--
 ## ⚙️ Principais Medidas Criadas
 
 As principais **medidas DAX** desenvolvidas foram:
@@ -53,6 +42,16 @@ Abaixo está uma prévia do dashboard desenvolvido:
   <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-10%20194559.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
   <img src="https://github.com/LuucasGabriel/AnalisededadosCAR/blob/main/Imagens/Captura%20de%20tela%202025-07-11%20212509.png?raw=true" alt="Dashboard CAR PRA" width="20%"/>
 </p>
+---
+
+## 🎯 Objetivo
+
+- Monitorar a área cadastrada pelos produtores rurais no CAR.
+- Acompanhar a adesão e recusa ao PRA.
+- Avaliar áreas de preservação permanente, vegetação nativa, reserva legal, servidão administrativa, uso restrito, entre outros.
+- Facilitar a tomada de decisão para orientar produtores e promover a regularização ambiental.
+
+---
 
 ## 🚀 Como Abrir o Projeto
 
